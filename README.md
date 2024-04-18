@@ -35,6 +35,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=red)&nbsp;
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-666666?style=for-the-badge&logo=burp-suite&logoColor=white)&nbsp;
 ![John The Ripper](https://img.shields.io/badge/John_The_Ripper-FF671B?style=for-the-badge&logo=john-the-ripper&logoColor=white)&nbsp;
+![Aircrack-ng](https://img.shields.io/badge/Aircrack_ng-FF7700?style=for-the-badge&logo=aircrack-ng&logoColor=white)&nbsp;
 
 ### Programming and Scripting:
 
@@ -46,11 +47,21 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-#### Studying in this moment:
+#### Network:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![MikroTik](https://img.shields.io/badge/MikroTik-0559a6?style=for-the-badge&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-0559a6?style=for-the-badge&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Zabbix](https://img.shields.io/badge/Zabbix-004070?style=for-the-badge&logo=zabbix&logoColor=white)&nbsp;
+![Ookla](https://img.shields.io/badge/Ookla-FF8200?style=for-the-badge&logo=speedtest&logoColor=white)&nbsp;
+![Recursive DNS](https://img.shields.io/badge/Recursive_DNS-333333?style=for-the-badge&logo=dnsmadeeasy&logoColor=white)&nbsp;
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)&nbsp;
+![CGNAT](https://img.shields.io/badge/CGNAT-7D00FF?style=for-the-badge&logo=checkpoint&logoColor=white)&nbsp;
+![Firewall](https://img.shields.io/badge/Firewall-D32F2F?style=for-the-badge&logo=firehydrant&logoColor=white)&nbsp;
+![Routing](https://img.shields.io/badge/Routing-FF5722?style=for-the-badge&logo=router&logoColor=white)&nbsp;
+![BGP](https://img.shields.io/badge/BGP-0747A6?style=for-the-badge&logo=baremetrics&logoColor=white)&nbsp;
+![OSPF](https://img.shields.io/badge/OSPF-7AC5CD?style=for-the-badge&logo=openstreetmap&logoColor=white)&nbsp;
+![IPv4](https://img.shields.io/badge/IPv4-EB6D20?style=for-the-badge&logo=internet-explorer&logoColor=white)&nbsp;
+![IPv6](https://img.shields.io/badge/IPv6-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)&nbsp;
 
 #### Databases:
 
