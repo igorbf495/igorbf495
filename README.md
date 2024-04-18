@@ -21,11 +21,11 @@
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-3c6e71?style=for-the-badge&logo=parrot&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
+![Parrot Security OS](https://img.shields.io/badge/Parrot_Security_OS-3c6e71?style=for-the-badge&logo=parrot&logoColor=white)&nbsp;
 ![MikroTik](https://img.shields.io/badge/MikroTik-0559a6?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
