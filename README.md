@@ -39,6 +39,7 @@
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-000000?style=for-the-badge&logo=proxy&logoColor=white)&nbsp;
 ![OSINT](https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=osint&logoColor=white)&nbsp;
 ![Netcat](https://img.shields.io/badge/Netcat-1679A7?style=for-the-badge&logo=netcat&logoColor=white)&nbsp;
+![Hping3](https://img.shields.io/badge/hping3-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
 
 ### Programming and Scripting:
 
