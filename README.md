@@ -36,6 +36,8 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-666666?style=for-the-badge&logo=burp-suite&logoColor=white)&nbsp;
 ![John The Ripper](https://img.shields.io/badge/John_The_Ripper-FF671B?style=for-the-badge&logo=john-the-ripper&logoColor=white)&nbsp;
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack_ng-FF7700?style=for-the-badge&logo=aircrack-ng&logoColor=white)&nbsp;
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-000000?style=for-the-badge&logo=proxy&logoColor=white)&nbsp;
+![OSINT](https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=osint&logoColor=white)&nbsp;
 
 ### Programming and Scripting:
 
