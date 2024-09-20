@@ -2,7 +2,7 @@
 
 
 
-<p align="center">Ethical Hacker | Network Analyst</p>&nbsp;
+<p align="center">Ethical Hacker</p>&nbsp;
 
 
  
