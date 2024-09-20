@@ -78,6 +78,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
+&nbsp;
+&nbsp;
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbf495&layout=compact&theme=dracula)
 
