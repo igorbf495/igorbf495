@@ -79,7 +79,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbf495&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbf495&layout=compact&theme=dracula)
+
 
 
 &nbsp;
