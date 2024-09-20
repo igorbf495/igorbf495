@@ -31,6 +31,9 @@
 #### Security and Penetration Testing Tools:
 
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)&nbsp;
+![Aircrack-ng](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)&nbsp;
+![TCPDUMP](https://img.shields.io/badge/Tcp-000000?style=for-the-badge&logo=tcp&logoColor=white)&nbsp;
+![DNSSPoof](https://img.shields.io/badge/Dns-000000?style=for-the-badge&logo=dns&logoColor=white)&nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=red)&nbsp;
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-666666?style=for-the-badge&logo=burp-suite&logoColor=white)&nbsp;
@@ -39,6 +42,11 @@
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-000000?style=for-the-badge&logo=proxy&logoColor=white)&nbsp;
 ![OSINT](https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=osint&logoColor=white)&nbsp;
 ![Netcat](https://img.shields.io/badge/Netcat-1679A7?style=for-the-badge&logo=netcat&logoColor=white)&nbsp;
+![Hashcat](https://img.shields.io/badge/Netcat-1679A7?style=for-the-badge&logo=hashcat&logoColor=red)&nbsp;
+![Wifite2](https://img.shields.io/badge/Hydra-1679A7?style=for-the-badge&logo=hydra&logoColor=white)&nbsp;
+![Hydra](https://img.shields.io/badge/Netcat-1679A7?style=for-the-badge&logo=netcat&logoColor=white)&nbsp;
+![Proxychains](https://img.shields.io/badge/Netcat-1679A7?style=for-the-badge&logo=netcat&logoColor=white)&nbsp;
+![SQLMap](https://img.shields.io/badge/Sql-1679A7?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![Hping3](https://img.shields.io/badge/hping3-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
 
 ### Programming and Scripting:
