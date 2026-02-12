@@ -82,10 +82,6 @@
 &nbsp;
 &nbsp;
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbf495&layout=compact&theme=dracula)
-
-
-
 &nbsp;
 &nbsp;
 
